@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da7e9cb5-69f0-46c8-a0dd-4966e38fdf5f": {
+      "ProjectGuid": "da7e9cb5-69f0-46c8-a0dd-4966e38fdf5f",
+      "DisplayName": "DynamoDB_intro",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
